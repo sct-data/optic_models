@@ -1,3 +1,3 @@
-# support vector machine optical model
+# support-vector machine optical models
 
 Part of [`spinalcordtoolbox`](https://github.com/neuropoly/spinalcordtoolbox).
